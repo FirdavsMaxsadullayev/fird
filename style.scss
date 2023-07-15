@@ -1,0 +1,11 @@
+
+@import "variables";
+@import "mixins";
+@import "variables";
+h1{
+    background-color: $bg-color-1;
+    color: $color-1 ;
+    width: funksiya(10,200);
+    height: funksiya(100,100);
+}
+
